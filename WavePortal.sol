@@ -3,6 +3,6 @@ pragma solidity ^0.8.4;
 import "hardhat/console.sol";
 contract WavePortal {
     constructor(){
-        console.log("yo yo, I am a contract and i am smart");
+        console.log("yo yo, I am a contract and am smart");
     }
 }
